@@ -5987,6 +5987,11 @@ react-native-screens@^2.16.1:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.16.1.tgz#b105a127378d90018a46daf0c2f6518fca60c06f"
   integrity sha512-WZ7m0sBDVaHbBnlHxwQnUlI6KNfQKHq+Unfw+VBuAlnSXvT+aw6Bb/K2bUlHzBgvrPjwY3Spc7ZERFuTwRLLwg==
 
+react-native-swipe-close-image@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-native-swipe-close-image/-/react-native-swipe-close-image-1.0.7.tgz#e9dfeccb5084bbed834771b1f08d4e0bce2e86f2"
+  integrity sha512-+iH8hsXsynB3wNWsghgy9xxPVWG+hJLVM93508Izj1Ski2fR7qhy0fUUipAgSUfCdAnJA6jaD46FZl3BFqqUxw==
+
 react-native-vector-icons@^7.0.0:
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-7.1.0.tgz#145487d617b2a81d395d2cf64e6e065fcab3a454"
